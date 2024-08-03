@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  border: solid black 7px;
+  background-color: yellow; /* Background color to highlight the flower */
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h6 {
+  margin: 0;
+}
+
+marquee {
+  margin: 10px 0;
+}

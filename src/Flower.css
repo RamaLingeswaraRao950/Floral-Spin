@@ -1,0 +1,56 @@
+/* src/components/Flower.css */
+
+.flower-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0; /* No space between the containers to form a flower shape */
+    width: 420px; /* Adjust width to fit the flower design */
+    height: 420px; /* Adjust height to fit the flower design */
+    animation: rotateFlower 5s linear infinite; /* Adding the rotation animation */
+}
+
+.container1, .container2, .container3, .container4 {
+    width: 177px;
+    height: 177px;
+}
+
+.container1 {
+    background-color: skyblue;
+    border-top-right-radius: 111px;
+    border-bottom-left-radius: 111px;
+    border-top: 29px solid green;
+    border-left: 29px solid indigo;
+}
+
+.container2 {
+    background-color: gold;
+    border-top-left-radius: 111px;
+    border-bottom-right-radius: 111px;
+    border-top: 29px solid violet;
+    border-right: 29px solid brown;
+}
+
+.container3 {
+    background-color: greenyellow;
+    border-top-left-radius: 111px;
+    border-bottom-right-radius: 111px;
+    border-top: 29px solid purple;
+    border-right: 29px solid red;
+}
+
+.container4 {
+    background-color: gray;
+    border-top-right-radius: 111px;
+    border-bottom-left-radius: 111px;
+    border-top: 29px solid black;
+    border-left: 29px solid blue;
+}
+
+@keyframes rotateFlower {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}

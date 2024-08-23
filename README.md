@@ -9,9 +9,8 @@ Floral Spin is a modern, responsive web application featuring a sleek landing pa
 **Live Demo :** [Floral Spin](https://floral-spin.vercel.app/)
 
 
-### Installation & Setup
-
-To run this project locally:
+### Installation :           
+To run this project locally :
 
 1. **Clone the repository :** https://github.com/RamaLingeswaraRao950/Floral-Spin.git
 

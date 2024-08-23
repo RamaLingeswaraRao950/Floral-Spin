@@ -6,44 +6,17 @@ Floral Spin is a modern, responsive web application featuring a sleek landing pa
 **Technologies Used :**
    Vite.js, React.js, JavaScript, CSS3, HTML5
 
-**Live Demo:** [Floral Spin](https://floral-spin.vercel.app/)
+**Live Demo :** [Floral Spin](https://floral-spin.vercel.app/)
 
 
 ### Installation & Setup
 
 To run this project locally:
 
-1. **Clone the repository :**
-princeram950@gmail.com   ```
+1. **Clone the repository :** https://github.com/RamaLingeswaraRao950/Floral-Spin.git
 
-2. **Navigate to the project directory:**
+2. **Navigate to the project directory :** cd floral-spin
 
-   ```bash
-   cd floral-spin
-   ```
-
-3. **Install dependencies:**
+3. **Install dependencies :** npm install
    
-   If your project has any dependencies (e.g., if you’re using Node.js or a bundler like Webpack), run:
-
-   ```bash
-   npm install
-   ```
-
-   Otherwise, proceed to the next step.
-
-4. **Start the development server:**
-
-   If you’re using a development server (like `live-server` or `webpack-dev-server`):
-
-   ```bash
-   npm start
-   ```
-
-5. **Open the project in your browser:**
-
-   Open your browser and navigate to `http://localhost:3000` (or the port specified by your development server).
-
----
-
-You can customize the steps if your project setup differs. Let me know if you need any other details!
+4. **Start the development server :** npm run dev

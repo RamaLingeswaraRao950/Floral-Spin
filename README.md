@@ -1,10 +1,10 @@
 Floral Spin is a modern, responsive web application featuring a sleek landing page with smooth animations and an aesthetically pleasing layout. This project showcases clean and minimalistic UI design tailored for an optimal viewing experience on all devices, whether desktops, tablets, or mobile screens. Hosted on Vercel, Floral Spin ensures fast load times and high performance.
 
-**Features:**
-Responsive Design, Smooth Animations, Modern UI, Deployed on Vercel
+**Features :**
+   Responsive Design, Smooth Animations, Modern UI, Deployed on Vercel
 
-**Technologies Used:**
--Vite.js, React.js, JavaScript, CSS3, HTML5
+**Technologies Used :**
+   Vite.js, React.js, JavaScript, CSS3, HTML5
 
 **Live Demo:** [Floral Spin](https://floral-spin.vercel.app/)
 
@@ -13,11 +13,8 @@ Responsive Design, Smooth Animations, Modern UI, Deployed on Vercel
 
 To run this project locally:
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/floral-spin.git
-   ```
+1. **Clone the repository :**
+princeram950@gmail.com   ```
 
 2. **Navigate to the project directory:**
 

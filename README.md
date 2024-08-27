@@ -1,4 +1,4 @@
-Floral Spin is a modern, responsive web application featuring a sleek landing page with smooth animations and an aesthetically pleasing layout. This project showcases clean and minimalistic UI design tailored for an optimal viewing experience.
+A modern, responsive web application featuring a sleek landing page with smooth animations and an aesthetically pleasing layout. This project showcases clean and minimalistic UI design tailored for an optimal viewing experience.
 
 **Features :-**
    Responsive Design, Smooth Animations, Modern UI
